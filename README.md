@@ -13,7 +13,7 @@ When you simultaneously press two keys they will be mapped to another (convenien
 
 # Installation
 * Install [Karabiner](https://pqrs.org/osx/karabiner/)
-* Import the `twokeys.json`: open `karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/hsjin/twokeys/master/twokeys.json` in a browser, or click <a href="karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/hsjin/twokeys/master/twokeys.json">this</a>
+* Import the `twokeys.json`: open `karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/hsjin/twokeys/master/twokeys.json` in a browser
     * As of version 12.0, Karabiner does not provide a GUI to import a custom complex modification configuration (as 'Open private .xml' in previous versions)
     * Instead, configurations are imported using Apple URL Scheme: open the `URL` of the `json` file containing configurations in a browser using `karabiner://karabiner/assets/complex_modifications/import?url=<JSON_URL>`
     * Use the `URL` of `twokeys.json` in this repository: `https://raw.githubusercontent.com/hsjin/twokeys/master/twokeys.json`
